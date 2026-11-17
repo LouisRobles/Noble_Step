@@ -120,10 +120,3 @@ REACT_APP_API_URL=http://localhost:5000/api
 - Order tracking and contact form are placeholders
 
 See `frontend/PROJECT_REVIEW_REPORT.md` for full details.
-<<<<<<< HEAD
-
-## License
-
-ISC
-=======
->>>>>>> 9c851396c38be3b4bfd40bdef38939829d280e44
