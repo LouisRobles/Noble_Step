@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Noble_Step
->>>>>>> 9c851396c38be3b4bfd40bdef38939829d280e44
 
 A modern e-commerce platform for footwear built with React, Express, and MongoDB. Includes a responsive storefront, cart & checkout, JWT authentication, product reviews, order management, and an admin dashboard.
 
