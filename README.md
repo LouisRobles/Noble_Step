@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# Noble Step — Full-Stack Footwear E-Commerce
-=======
 # Noble_Step
 >>>>>>> 9c851396c38be3b4bfd40bdef38939829d280e44
 
